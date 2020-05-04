@@ -1,4 +1,4 @@
-# SPYMASTERS PRIVACY POLICY
+# PRIVACY POLICY
 
 ### Last updated April 05, 2020
 
