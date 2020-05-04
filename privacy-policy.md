@@ -1,3 +1,8 @@
+---
+layout: post
+title: Spymasters Privacy Policy
+---
+
 # SPYMASTERS PRIVACY POLICY
 
 ### Last updated April 05, 2020
