@@ -61,11 +61,9 @@ We use personal information collected via our Apps for a variety of business pur
 
 We use the information we collect or receive:
 
-    * To facilitate account creation and logon process. If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.
-
-    * To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.
-
-    * To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.
+* To facilitate account creation and logon process. If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.
+* To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.
+* To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.
 
 
 ## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
@@ -73,15 +71,11 @@ We use the information we collect or receive:
 ***In Short:**  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.*
 We may process or share data based on the following legal basis:
 
-    * Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.
-
-    * Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
-
-    * Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
-
-    * Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
-
-    * Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+* Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.
+* Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+* Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+* Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+* Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
 More specifically, we may need to process your data or share your personal information in the following situations:
 
@@ -130,14 +124,13 @@ If you have questions or comments about your privacy rights, you may email us at
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
-    * Contact us using the contact information provided.
+* Contact us using the contact information provided.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements.
 
 **Opting out of email marketing:** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:
 
-    * Contact us using the contact information provided.
-
+* Contact us using the contact information provided.
 
 ## 8. DATA BREACH
 
